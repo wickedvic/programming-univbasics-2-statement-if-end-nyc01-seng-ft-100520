@@ -1,6 +1,6 @@
 # Write your solution here
-run_code_inside = 5
-if run_code_inside.even?
+def run_code_inside?(num)
+if num.even?
   puts "Even!"
 else 
   puts "Odd!"
