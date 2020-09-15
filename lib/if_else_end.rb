@@ -1,8 +1,6 @@
 # Write your solution here
-def run_code_inside(num)
-if num.even?
+if Time.now.even?
   puts "Even!"
-else 
+else
   puts "Odd!"
-end
 end
