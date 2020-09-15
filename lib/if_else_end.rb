@@ -1,5 +1,5 @@
 # Write your solution here
-def run_code_inside?(num)
+def run_code_inside(num)
 if num.even?
   puts "Even!"
 else 
